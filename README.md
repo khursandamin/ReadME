@@ -3,7 +3,7 @@
 ## Selection Screen
 Choose whether you want to get your meal according to your BMI or just want to see all the meal plans.
 
-![NutritionApp - Copy](https://user-images.githubusercontent.com/76199828/123649720-6a22b500-d843-11eb-8906-d4e4c0758097.jpg)
+###![NutritionApp - Copy](https://user-images.githubusercontent.com/76199828/123649720-6a22b500-d843-11eb-8906-d4e4c0758097.jpg)
 ## BMI Calculator Screen
 If the user selects to calculate BMI from Selection Screen, the user will provide his/her weight, height, age as input to calculate BMI and calories.
 
